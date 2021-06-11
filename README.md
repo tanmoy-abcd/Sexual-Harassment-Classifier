@@ -22,3 +22,6 @@ Since this is a Multi label classification problem , we will also use Hamming lo
 performance of the whole model.
 
 The model was able to attain an F1_score of 0.69 and an hamming loss of 0.16
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
